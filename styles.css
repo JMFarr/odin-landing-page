@@ -38,3 +38,10 @@ li > a {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.hero-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
