@@ -141,3 +141,19 @@ h2 {
     font-weight: bold;
     text-align: end;
 }
+
+/* Start of CTA Section */
+.cta-section {
+    padding: 80px 0;
+}
+
+.cta-section .container {
+    background-color: #3882F6;
+    padding: 48px 96px;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+h3 {
+    margin: 0;
+}
