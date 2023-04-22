@@ -124,3 +124,13 @@ h2 {
     justify-content: center;
     align-items: center;
 }
+
+.testimonial {
+    width: 760px;
+}
+
+.testimonial > p {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
