@@ -88,6 +88,17 @@ h1 {
     align-items: center;
 }
 
+.image-card-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.image-card {
+    flex: 0 1 150px;
+    text-align: center;
+}
+
 .image {
     width: 150px;
     height: 150px;
