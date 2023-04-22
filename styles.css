@@ -169,4 +169,7 @@ h3 {
     color: #F9FAF8;
     font-size: 18px;
     font-weight: bold;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    padding: 8px 32px;
 }
