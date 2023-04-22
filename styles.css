@@ -133,4 +133,11 @@ h2 {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
+    margin-bottom: 8px;
+}
+
+.customer-name {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: end;
 }
