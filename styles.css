@@ -47,6 +47,18 @@ li > a {
     height: 400px;
 }
 
+h1 {
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.hero-subtext {
+    font-size: 18px;
+    color: #E5E7EB;
+    margin-bottom: 12px;
+}
+
 .hero-image {
     width: 480px;
     height: 200px;
