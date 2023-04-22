@@ -152,6 +152,9 @@ h2 {
     padding: 48px 96px;
     box-sizing: border-box;
     border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 h3 {
