@@ -73,7 +73,7 @@ h1 {
 
 .hero-image {
     width: 480px;
-    height: 200px;
+    height: 240px;
     background-color: grey;
     flex-shrink: 0;
     display: flex;
